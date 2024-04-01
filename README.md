@@ -5,8 +5,8 @@
 <p><img align="right" src="https://github.com/Trungkien03/TrungKien03/blob/main/animation_500_kxa883sd.gif" alt="adam-pw" /></p>
 
 
-- 🌱 I’m currently learning React Native and NodeJS With Angular 16
-
+- 🌱 I’m currently learning Flutter, NodeJS and Java Spring 
+  
 - 📫 How to reach me **trungkiennguyen0310@gmail.com**
 
 - ⚡ Fun fact :- Code for life, happy code - happy money - happy life (giao lang)

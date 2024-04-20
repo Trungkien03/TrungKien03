@@ -15,7 +15,8 @@
 
 ##### Languages I use
 ![TypeScript](https://img.shields.io/badge/-TypeScript-000000?style=flat&logo=typescript)
-![Swift](https://img.shields.io/badge/-Swift-000000?style=flat&logo=swift)
+![Swift](https://img.shields.io/badge/-Python-000000?style=flat&logo=python)
+![Python]()
 ![Java](https://img.shields.io/badge/-Java-000000?style=flat&logo=java)
 ![C](https://img.shields.io/badge/-C-000000?style=flat&logo=c)
 ![SQL](https://img.shields.io/badge/-SQL-000000?style=flat&logo=postgresql)

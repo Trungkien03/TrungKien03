@@ -5,16 +5,17 @@
 <p><img align="right" src="https://github.com/Trungkien03/TrungKien03/blob/main/animation_500_kxa883sd.gif" alt="adam-pw" /></p>
 
 
-- 🌱 I’m currently learning SwiftUI, NodeJS and Cloud Services 
+- 🌱 I’m currently learning SwiftUI, NodeJS, Python, Data and Cloud Services 
   
 - 📫 How to reach me **trungkiennguyen0310@gmail.com**
 
-- ⚡ Fun fact :- Code for life, happy code - happy money - happy life (giao lang)
+- ⚡ Fact :“Life begins at the end of your comfort zone” - Neale Donald Walsh
 
 <br>
 
 ##### Languages I use
 ![TypeScript](https://img.shields.io/badge/-TypeScript-000000?style=flat&logo=typescript)
+![Swift](https://img.shields.io/badge/-Swift-000000?style=flat&logo=swift)
 ![Java](https://img.shields.io/badge/-Java-000000?style=flat&logo=java)
 ![C](https://img.shields.io/badge/-C-000000?style=flat&logo=c)
 ![SQL](https://img.shields.io/badge/-SQL-000000?style=flat&logo=postgresql)

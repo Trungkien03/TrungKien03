@@ -5,7 +5,7 @@
 <p><img align="right" src="https://github.com/Trungkien03/TrungKien03/blob/main/animation_500_kxa883sd.gif" alt="adam-pw" /></p>
 
 
-- 🌱 I’m currently learning SwiftUI, NodeJS, Python, Data and Cloud Services 
+- 🌱 I’m currently learning iOS and Android Development with Swift and Kotlin, NodeJS, Data Structures And Algorithms
   
 - 📫 How to reach me **trungkiennguyen0310@gmail.com**
 

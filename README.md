@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Nguyen Trung Kien</h1>
-<h3 align="center">Frontend Mobile Engineer | Fullstack Engineer | Aspiring Web3 & Blockchain Developer</h3>
+<h3 align="center">Frontend Mobile Engineer | Fullstack Engineer | Aspiring AI and AI Agents Technologies</h3>
 <br>
 
 <p><img align="right" style="width: '40%'" src="https://github.com/Trungkien03/TrungKien03/blob/main/animation_500_kxa883sd.gif" alt="Nguyen Trung Kien" /></p>

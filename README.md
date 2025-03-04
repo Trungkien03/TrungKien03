@@ -14,25 +14,23 @@
 #### Languages I use
 ![TypeScript](https://img.shields.io/badge/-TypeScript-000000?style=flat&logo=typescript)
 ![Swift](https://img.shields.io/badge/-Swift-000000?style=flat&logo=swift)
-![Solidity](https://img.shields.io/badge/-Solidity-000000?style=flat&logo=solidity)
 ![Python](https://img.shields.io/badge/-Python-000000?style=flat&logo=python)
-![Java](https://img.shields.io/badge/-Java-000000?style=flat&logo=java)
 ![SQL](https://img.shields.io/badge/-SQL-000000?style=flat&logo=postgresql)
-![C](https://img.shields.io/badge/-C-000000?style=flat&logo=c)
-
-
 
 #### Some of the technologies I have worked with
-![React Native](https://img.shields.io/badge/-React%20Native-222222?style=flat&logo=react&logoColor=61DAFB)
-![React](https://img.shields.io/badge/-React-222222?style=flat&logo=React&logoColor=61DAFB)
 ![Node.js](https://img.shields.io/badge/-Node.js-222222?style=flat&logo=node.js&logoColor=339933)
+![React](https://img.shields.io/badge/-React-222222?style=flat&logo=React&logoColor=61DAFB)
+![NextJS](https://img.shields.io/badge/NextJs-000000?style=flat&logo=next.js&logoColor=white)
+![NestJS](https://img.shields.io/badge/-NestJs-ea2845?style=flat-square&logo=nestjs&logoColor=white)
+![React Native](https://img.shields.io/badge/-React%20Native-222222?style=flat&logo=react&logoColor=61DAFB)
+![Expo](https://img.shields.io/badge/Expo-000000?logo=Expo&logoColor=white)
+![SwiftUI](https://img.shields.io/badge/-SwiftUI-222222?style=flat&logo=swift&logoColor=orange)
+![Git](https://img.shields.io/badge/-Git-222222?style=flat&logo=git&logoColor=F05032)
+![Docker](https://img.shields.io/badge/-Docker-black?style=flat-square&logo=docker)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazonwebservices&logoColor=white)
+![Google Cloud](https://img.shields.io/badge/Google%20Cloud-black?style=flat-square&logo=google-cloud)
 ![Express.js](https://img.shields.io/badge/-Express.js-222222?style=flat&logo=express&logoColor=white)
 ![Jetpack Compose](https://img.shields.io/badge/-Jetpack%20Compose-222222?style=flat&logo=android&logoColor=3DDC84)
-![SwiftUI](https://img.shields.io/badge/-SwiftUI-222222?style=flat&logo=swift&logoColor=orange)
 ![Firebase](https://img.shields.io/badge/Firebase-222222?style=flat-square&logo=firebase)
-![Google Cloud](https://img.shields.io/badge/Google%20Cloud-black?style=flat-square&logo=google-cloud)
-![Docker](https://img.shields.io/badge/-Docker-black?style=flat-square&logo=docker)
-![Git](https://img.shields.io/badge/-Git-222222?style=flat&logo=git&logoColor=F05032)
-![GitHub](https://img.shields.io/badge/-GitHub-222222?style=flat&logo=github&logoColor=181717)
-![Ethereum](https://img.shields.io/badge/-Ethereum-black?style=flat-square&logo=ethereum)
-![IPFS](https://img.shields.io/badge/-IPFS-000000?style=flat&logo=ipfs&logoColor=white)
+
+

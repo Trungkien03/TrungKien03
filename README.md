@@ -2,8 +2,6 @@
 <h3 align="center">Frontend Mobile Engineer | Fullstack Engineer | Aspiring AI and AI Agents Technologies</h3>
 <br>
 
-<p><img align="right" style="width: '40%'" src="https://github.com/Trungkien03/TrungKien03/blob/main/animation_500_kxa883sd.gif" alt="Nguyen Trung Kien" /></p>
-
 - 🌱 I’m currently learning iOS with Swift, NextJS and NestJS, Python, Data Structures And Algorithms.  
 - 🚀 Expanding my knowledge in **AI**, **ML/DL**, **Cloud** technologies.  
 - 📫 How to reach me: **kiennt.it.work@gmail.com**  
